@@ -26,7 +26,7 @@ layout: "overview"
 <div class="container">
 <div class="row mt-20">
 <div class="col-lg-6 text-center">
-<a href="https://mybinder.org/v2/gh/wenzeslaus/try-grass-in-jupyter/master"><img class="bsh" src="../../images/other/GRASS_mybinder_jupyter_intro.png" width="89%" alt="GRASS GIS Jupyter intro"></a>
+<a href="https://mybinder.org/v2/gh/wenzeslaus/try-grass-in-jupyter/main"><img class="bsh" src="../../images/other/GRASS_mybinder_jupyter_intro.png" width="89%" alt="GRASS GIS Jupyter intro"></a>
 </div>
 <div class="col-lg-6">
 <p>The <b><a href="https://jupyter.org/binder">Binder</a></b> project offers reproducible, sharable, interactive computing environments. From the <b>GRASS GIS</b> community, GitHub repositories are available to launch a <b>GRASS GIS</b> computing environment with sample data and working examples.
